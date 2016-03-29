@@ -23,7 +23,7 @@ In your dashboard's `ATRRIBUTE_TYPES`, use the type `Field::Type` with options:
 
 ```ruby
 ATTRIBUTE_TYPES = {
-  my_field: Field::Type.with_options({
+  type: Field::Type.with_options({
     class_name: 'User'
   }),
 }

@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Rich Daley"]
   spec.email         = ["rich@fishpercolator.co.uk"]
 
-  spec.summary       = %q{Administrate for Single Table Inheritance (STI)}
+  spec.summary       = %q{Administrate field for Single Table Inheritance (STI)}
   spec.description   = %q{Adds an Administrate::Field::Type for allowing the selection of an STI subtype in dashboards.}
   spec.homepage      = "https://github.com/fishpercolator/administrate-field-type"
   spec.license       = "MIT"
